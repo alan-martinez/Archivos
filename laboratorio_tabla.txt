@@ -1,0 +1,4 @@
+Sistema   RAM       Nombre  ROM   
+Windows   8 ram     Klen    1 Tb  
+Mac       6 RAM     Alan    500 GB
+Apple     128 GB    Pol     8 Gb  
